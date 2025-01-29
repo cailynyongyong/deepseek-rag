@@ -6,7 +6,7 @@
 터미널에서 해당 명령어를 입력해주세요.
 
 ```
-ollama pull deepseek:r1-1.5b
+ollama run deepseek:r1-1.5b
 ```
 
 다음 환경 셋업
