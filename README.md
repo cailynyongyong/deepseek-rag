@@ -2,6 +2,15 @@
 
 ### 환경설정
 
+먼저 Ollama에서 Deepseek-r1 1.5b 모델을 다운받으셔야 합니다.
+터미널에서 해당 명령어를 입력해주세요.
+
+```
+ollama pull deepseek:r1-1.5b
+```
+
+다음 환경 셋업
+
 ```
 python -m venv venv
 source venv/bin/activate
